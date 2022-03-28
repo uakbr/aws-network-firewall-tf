@@ -1,8 +1,8 @@
-# terraform-aws-network-firewall
+# aws-network-firewall-tf
 
 ## Overview
 
-This module creates AWS Network firewall resources, which includes:
+Creates AWS Network firewall resources via Terraform, including:
 * Network Firewall
 * Network Firewall Policy
 * Network Firewall Stateless groups and rules
